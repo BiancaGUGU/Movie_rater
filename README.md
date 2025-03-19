@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Movie_rater
 ## First Project
-###Enjoy this new start!
+### Enjoy this new start!
 This is  a  website for rating movies.
 =======
 # Getting Started with Create React App
